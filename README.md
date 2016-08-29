@@ -1,2 +1,2 @@
 # Vidya_Projects
-This repository contains my test projects
+I am Vidya and this repository contains my test projects.
